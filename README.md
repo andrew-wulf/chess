@@ -1,5 +1,5 @@
 # Chess
-**View the code [here!](https://github.com/andrew-wulf/portfolio-frontend/tree/main/src/Chess/src)**
+**I migrated my code from another of my repositories, to view the commit history look [here!](https://github.com/andrew-wulf/portfolio-frontend/tree/main/src/Chess/src)**
 
 A fully functional chess match created with javascript and the phaser library. The entire game was written from scratch, with the exception of the piece image assets and sound files (they're publically available and created by chess.com).  
   
